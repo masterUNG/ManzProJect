@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230533017295",
+    "project_id": "manzproject-487b1",
+    "storage_bucket": "manzproject-487b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230533017295:android:82102d4961b5fc4834d1ba",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.manzproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230533017295-9r4srbhmmccq4g4pm2t55v5j2fi5sd8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFQL8l1oUxKKubFjqJflYjREwk6R9GAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230533017295-9r4srbhmmccq4g4pm2t55v5j2fi5sd8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

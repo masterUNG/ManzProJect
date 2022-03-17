@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
+import 'package:myproject/states/authen.dart';
 import 'package:myproject/states/my_home_page.dart';
 
 import 'mylocation.dart';
@@ -18,8 +19,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(
-        title: 'ระบบลงเวลาเข้างาน',
+      home: Authen(
+       
       ),
     );
   }
